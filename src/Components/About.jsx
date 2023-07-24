@@ -31,12 +31,11 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Microsoft Power Apps Maker",
+  "Microsoft Powe Automate Expert",
+  "Microsoft Sharepoint Development",
+  "Web Development",
+  "Web Design",
 ];
 
 /**
@@ -45,8 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "As a Power Platform Developer and Web Developer, I am passionate about creating innovative solutions that empower organizations to achieve their goals more efficiently and effectively. With many years of experience in the industry, I have refined my skills in developing customized applications using a range of tools and technologies. My expertise in the Power Platform allows me to create intuitive Power Apps and automate workflows with Power Automate, while my extensive experience in web development enables me to create dynamic and responsive websites that deliver an exceptional user experience. I am dedicated to delivering high-quality solutions that meet the unique needs of clients and have had the privilege of collaborating with organizations across various industries.";
 const About = () => {
   return (
     <section className="padding" id="about">
